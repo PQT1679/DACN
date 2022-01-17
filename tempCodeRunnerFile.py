@@ -1,0 +1,1 @@
+print(book.find(class_='styles__StyledQuantitySold-sc-1u1gph7-2 exWbxD').string)
